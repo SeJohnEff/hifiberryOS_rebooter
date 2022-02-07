@@ -1,0 +1,7 @@
+[Unit]
+Description=Rebooter
+After=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/sbin/reboot
