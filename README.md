@@ -12,3 +12,4 @@ Steps:
 
 
 Thanks to LordEidi, giving me the inspiration
+This rebooter works well in combination with https://github.com/LordEidi/hifiberryos_hacks if you like it that way.
