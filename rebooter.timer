@@ -2,7 +2,7 @@
 Description=Reboot timer
 
 [Timer]
-OnCalendar=03:00
+OnCalendar=06:00
 Unit=rebooter.service
 
 [Install]
